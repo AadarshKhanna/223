@@ -3,7 +3,7 @@ pipeline {
   environment {
       DIRECTORY_PATH = "https://github.com/AadarshKhanna/223"
       TESTING_ENVIRONMENT = "junit"
-      PRODUCTION_ENVIRONMENT = "AadarshKhanna"
+      PRODUCTION_ENVIRONMENT = "Aadarsh"
   }
 
   stages {
